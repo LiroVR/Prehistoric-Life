@@ -1,0 +1,4195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2816939138881485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4050058962706438249}
+  m_Layer: 0
+  m_Name: DinoRightFinger2-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4050058962706438249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2816939138881485}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0128522795, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7233786760640462570}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &334105848158711982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3788472794701054916}
+  m_Layer: 0
+  m_Name: DinoLeftShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3788472794701054916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334105848158711982}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000003725327, y: -0.000000008783607, z: -0.00000005215418, w: 1}
+  m_LocalPosition: {x: -0.000000057220603, y: 0.00000010238384, z: -0.000000019072964}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6604579493360053212}
+  m_Father: {fileID: 5479363461565418274}
+  m_LocalEulerAnglesHint: {x: 16.753101, y: -16.190523, z: -67.92719}
+--- !u!1 &335476314947505999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5076345162298574302}
+  m_Layer: 0
+  m_Name: DinoLeftToe3-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5076345162298574302
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335476314947505999}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000026918041, y: -1.2415473e-13, z: -0.000000016999252, w: 1}
+  m_LocalPosition: {x: -8.806693e-14, y: 0.000000059983265, z: -0.000000009991366}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3974353229783966907}
+  m_Father: {fileID: 8862366925859976251}
+  m_LocalEulerAnglesHint: {x: -0.00000036685606, y: 0.00000042688663, z: 0.000057917365}
+--- !u!1 &393200050975161945
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 318805034754222779}
+  m_Layer: 0
+  m_Name: DinoLeftEye_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &318805034754222779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393200050975161945}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852197, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 459025266570046934}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &399637621272411176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 521475585347951934}
+  m_Layer: 0
+  m_Name: DinoSpine04LJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &521475585347951934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 399637621272411176}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000047031637, y: 0.0000000023922884, z: 0.000000007450683, w: 1}
+  m_LocalPosition: {x: -0.000000038146837, y: -0.00000009735514, z: 0.000000014305501}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1679898966294167820}
+  m_Father: {fileID: 5461554134739337867}
+  m_LocalEulerAnglesHint: {x: 20.826921, y: 95.75544, z: 31.131836}
+--- !u!1 &415714450912641732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2777485389930851621}
+  m_Layer: 0
+  m_Name: DinoTail01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2777485389930851621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415714450912641732}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.1471006e-15, y: 9.4848554e-14, z: 0.000000013744735, w: 1}
+  m_LocalPosition: {x: -0.0000001525881, y: 0.0000001552411, z: -1.3388494e-13}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5600567526627654057}
+  - {fileID: 529452585064001750}
+  - {fileID: 8867130356278090016}
+  m_Father: {fileID: 6684385603039569149}
+  m_LocalEulerAnglesHint: {x: 1.0834101, y: 0.67823684, z: 1.8586057}
+--- !u!1 &469690024249957235
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8749076282974088746}
+  m_Layer: 0
+  m_Name: DinoHead
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8749076282974088746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 469690024249957235}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.8232543e-13, y: -1.1901598e-13, z: -0.000000044703064, w: 1}
+  m_LocalPosition: {x: -0.0000000572205, y: 0.00000003166554, z: 3.1055285e-13}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5185030583668739442}
+  - {fileID: 459025266570046934}
+  - {fileID: 1600833681365092815}
+  - {fileID: 6524596772665313890}
+  - {fileID: 8965881555056345424}
+  m_Father: {fileID: 1021135138942143589}
+  m_LocalEulerAnglesHint: {x: 0.8442339, y: 4.6478286, z: -41.90856}
+--- !u!1 &524752813892689420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9090160778924943372}
+  m_Layer: 0
+  m_Name: DinoRightToe2-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9090160778924943372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524752813892689420}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852253, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8614393684824675290}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &566548483446634497
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3879941645323480541}
+  m_Layer: 0
+  m_Name: DinoRightEye_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3879941645323480541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566548483446634497}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0128521975, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6524596772665313890}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &845934038302585155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2463660426890977177}
+  m_Layer: 0
+  m_Name: DinoRightFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2463660426890977177
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 845934038302585155}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000027939695, y: 0.0000000025902518, z: 0.000000006977695, w: 1}
+  m_LocalPosition: {x: 0.000000019073484, y: 9.969694e-10, z: 0.000000009154535}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7593945671902248248}
+  - {fileID: 5765423219798936205}
+  - {fileID: 6454879781997909952}
+  m_Father: {fileID: 6839708629380690324}
+  m_LocalEulerAnglesHint: {x: -5.8711166, y: 0.094099134, z: -20.427876}
+--- !u!1 &931366359770875192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4872346283521751807}
+  m_Layer: 0
+  m_Name: DinoRightForearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4872346283521751807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 931366359770875192}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000011175859, y: 0.00000000698492, z: -0.00000003326572, w: 1}
+  m_LocalPosition: {x: 0.00000003814704, y: -0.00000006816593, z: -0.000000057509244}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3723824977777376862}
+  m_Father: {fileID: 1286618620607308801}
+  m_LocalEulerAnglesHint: {x: -10.74294, y: -4.204934, z: 118.36877}
+--- !u!1 &1092111693604271639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7750097981907178411}
+  m_Layer: 0
+  m_Name: DinoRightToe3-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7750097981907178411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1092111693604271639}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.612337e-10, y: 5.1050794e-14, z: 0.000000019907004, w: 1}
+  m_LocalPosition: {x: 0.000000009536759, y: -0.000000021457689, z: -0.000000012941334}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1110418327473202200}
+  m_Father: {fileID: 6454879781997909952}
+  m_LocalEulerAnglesHint: {x: 0.00000013673719, y: -0.0000009604952, z: 0.0000011172428}
+--- !u!1 &1107435632660653812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3274165003866678372}
+  m_Layer: 0
+  m_Name: DinoRightThighJiggle02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3274165003866678372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1107435632660653812}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000014901168, y: -1.5543122e-14, z: -0.000000010011717, w: 1}
+  m_LocalPosition: {x: -5.456968e-14, y: 0.000000038146982, z: -0.000000009536748}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8567993405153993767}
+  m_Father: {fileID: 7477667874729148061}
+  m_LocalEulerAnglesHint: {x: -50.80409, y: -35.648964, z: -44.026382}
+--- !u!1 &1278517016210455278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7593945671902248248}
+  m_Layer: 0
+  m_Name: DinoRightToe1-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7593945671902248248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278517016210455278}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000009080398, y: 0.000000013707878, z: 0.000000014937525, w: 1}
+  m_LocalPosition: {x: -0.0000000047683755, y: 0.0000000029419536, z: -0.0000000030120133}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6332299707539295793}
+  m_Father: {fileID: 2463660426890977177}
+  m_LocalEulerAnglesHint: {x: 10.747295, y: 85.09201, z: 55.003174}
+--- !u!1 &1297451385975810473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8975450178262637854}
+  m_Layer: 0
+  m_Name: DinoRightThighJiggle01_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8975450178262637854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297451385975810473}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852255, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 321678353969693729}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1391163006100858408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5552700165266538605}
+  m_Layer: 0
+  m_Name: DinoTongue03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5552700165266538605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391163006100858408}
+  serializedVersion: 2
+  m_LocalRotation: {x: 3.4043945e-17, y: 2.2502055e-13, z: 0.00000004470396, w: 1}
+  m_LocalPosition: {x: -2.3143613e-13, y: 0.0000001548581, z: -6.837187e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8812776888108828335}
+  m_Father: {fileID: 2556279642921481688}
+  m_LocalEulerAnglesHint: {x: -0.00022726535, y: 0.000029570476, z: -7.4125776}
+--- !u!1 &1537529943865782946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 321678353969693729}
+  m_Layer: 0
+  m_Name: DinoRightThighJiggle01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &321678353969693729
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1537529943865782946}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000819564, y: 0.000000009313154, z: 0.000000045867655, w: 1}
+  m_LocalPosition: {x: 0.000000114440795, y: 0.000000076294114, z: 0.000000019073436}
+  m_LocalScale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8975450178262637854}
+  m_Father: {fileID: 7477667874729148061}
+  m_LocalEulerAnglesHint: {x: -66.05564, y: -157.9857, z: 67.7936}
+--- !u!1 &1560985614280209986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5765423219798936205}
+  m_Layer: 0
+  m_Name: DinoRightToe2-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5765423219798936205
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560985614280209986}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000032188848, y: 0.0000000432772, z: -0.00000002976582, w: 1}
+  m_LocalPosition: {x: -0.000000009536727, y: -0.0000000018264227, z: 0.000000025598217}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3972135317789711242}
+  m_Father: {fileID: 2463660426890977177}
+  m_LocalEulerAnglesHint: {x: 16.977037, y: 90.89576, z: 90.298454}
+--- !u!1 &1648099328528545758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8823810751643636755}
+  m_Layer: 0
+  m_Name: DinoSpine04RJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8823810751643636755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1648099328528545758}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852206, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2013884700635216356}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1648442186694285493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5479363461565418274}
+  m_Layer: 0
+  m_Name: DinoSpine02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5479363461565418274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1648442186694285493}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.96036e-15, y: 1.0859729e-13, z: 0.00000000756705, w: 1}
+  m_LocalPosition: {x: 0.000000019073724, y: -0.00000018098756, z: -3.0557458e-13}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3788472794701054916}
+  - {fileID: 4701958840972507339}
+  - {fileID: 4787547394275660426}
+  m_Father: {fileID: 997135459795034667}
+  m_LocalEulerAnglesHint: {x: 0.8184847, y: -0.22453523, z: -15.290863}
+--- !u!1 &1713765483107971600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8802291167539122313}
+  m_Layer: 0
+  m_Name: DinoLeftToe2-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8802291167539122313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713765483107971600}
+  serializedVersion: 2
+  m_LocalRotation: {x: 9.682527e-12, y: 0.0000000018626389, z: 0.000000003259595, w: 1}
+  m_LocalPosition: {x: 0.000000014305082, y: 0.000000016689313, z: -0.00000001153046}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 907855925394500901}
+  m_Father: {fileID: 4289718699843475690}
+  m_LocalEulerAnglesHint: {x: -0.00000012649248, y: 8.475994, z: 0.00000025889594}
+--- !u!1 &1950251913186806486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2757340993721533657}
+  m_Layer: 0
+  m_Name: DinoLeftForearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2757340993721533657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950251913186806486}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000001583249, y: -0.00000000977887, z: -0.000000015657829, w: 1}
+  m_LocalPosition: {x: -0.000000038147014, y: 0.000000031759555, z: 0.000000037382783}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5140792764374139959}
+  m_Father: {fileID: 6604579493360053212}
+  m_LocalEulerAnglesHint: {x: 10.524116, y: -4.3784857, z: -119.67181}
+--- !u!1 &1972318026444217629
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2020529624997213499}
+  m_Layer: 0
+  m_Name: DinoLeftToe3-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2020529624997213499
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1972318026444217629}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852265, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3974353229783966907}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2225356173812258676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8812776888108828335}
+  m_Layer: 0
+  m_Name: DinoTongue03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8812776888108828335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2225356173812258676}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852294, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5552700165266538605}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2654928802005261901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8559484534679188171}
+  m_Layer: 0
+  m_Name: camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8559484534679188171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2654928802005261901}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6156818367516512032}
+  m_Father: {fileID: 8550778236247773231}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2666856309052289750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1887419791115449167}
+  m_Layer: 0
+  m_Name: DinoLeftFinger2-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1887419791115449167
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2666856309052289750}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000026129248, y: -0.000000009839323, z: -0.000000040977756, w: 1}
+  m_LocalPosition: {x: -0.00000012397753, y: -0.000000027205225, z: 0.00000002024917}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 480628274898629455}
+  m_Father: {fileID: 5338184489834930253}
+  m_LocalEulerAnglesHint: {x: -0.00013005116, y: -0.000009955093, z: 31.742489}
+--- !u!1 &2722145610780807386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1189734801886182259}
+  m_Layer: 0
+  m_Name: DinoHyoid_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1189734801886182259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2722145610780807386}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852227, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6182616568442610133}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2810597419959386703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1021135138942143589}
+  m_Layer: 0
+  m_Name: DinoSpine05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1021135138942143589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2810597419959386703}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.5478951e-14, y: 3.108738e-15, z: 0.000000014901271, w: 1}
+  m_LocalPosition: {x: -0.000000057220312, y: -0.000000108135154, z: -8.53261e-15}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8749076282974088746}
+  m_Father: {fileID: 5461554134739337867}
+  m_LocalEulerAnglesHint: {x: -0.041233648, y: 0.0424408, z: -36.464085}
+--- !u!1 &2811109775896038703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3723824977777376862}
+  m_Layer: 0
+  m_Name: DinoRightHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3723824977777376862
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2811109775896038703}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000002048911, y: -0.000000014901195, z: 0.000000022584503, w: 1}
+  m_LocalPosition: {x: 1.9289447e-13, y: -0.00000013948555, z: -0.00000001392763}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5031607320409755033}
+  - {fileID: 8635908528049901745}
+  m_Father: {fileID: 4872346283521751807}
+  m_LocalEulerAnglesHint: {x: 24.859922, y: 8.262574, z: -27.756361}
+--- !u!1 &2866368236124222027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3382137759467658891}
+  m_Layer: 0
+  m_Name: DinoLeftFinger2-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3382137759467658891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2866368236124222027}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000014901158, y: 0.000000018626466, z: -0.00000004284083, w: 1}
+  m_LocalPosition: {x: -0.000000004768526, y: 0.00000007411048, z: -0.00000004602849}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5338184489834930253}
+  m_Father: {fileID: 5140792764374139959}
+  m_LocalEulerAnglesHint: {x: -28.62136, y: -25.908604, z: 54.34918}
+--- !u!1 &2903149179612959563
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8299848262129995311}
+  m_Layer: 0
+  m_Name: DinoLeftToe1-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8299848262129995311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2903149179612959563}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000029067995, y: -0.000000007573639, z: 0.00000002156596, w: 1}
+  m_LocalPosition: {x: 0.0000000047683426, y: 0.000000023189843, z: 3.0348857e-10}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1856213009294861636}
+  m_Father: {fileID: 5585678731995776577}
+  m_LocalEulerAnglesHint: {x: 0.00000021296985, y: -0.00000053379796, z: -0.10170496}
+--- !u!1 &2941976786942023768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6321617909486216290}
+  m_Layer: 0
+  m_Name: DinoLeftFinger1-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6321617909486216290
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2941976786942023768}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000003502463, y: 0.0000000030845473, z: -0.0000000074503714, w: 1}
+  m_LocalPosition: {x: 0.00000004768357, y: 0.000000058062582, z: -0.00000003921933}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5850049238008819194}
+  m_Father: {fileID: 781051263511850605}
+  m_LocalEulerAnglesHint: {x: -0.0000030077324, y: -0.000004647417, z: 40.911198}
+--- !u!1 &3133770517394129892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8290257466282488952}
+  m_Layer: 0
+  m_Name: DinoSpine01LJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8290257466282488952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3133770517394129892}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000037251788, y: 0.000000057340436, z: -0.0000000147846935, w: 1}
+  m_LocalPosition: {x: 0.000000038146943, y: 0.000000021532225, z: 1.845375e-13}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7973753867819577532}
+  m_Father: {fileID: 997135459795034667}
+  m_LocalEulerAnglesHint: {x: 55.756374, y: 10.959084, z: -80.05797}
+--- !u!1 &3202584846555343958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8555181956114848}
+  m_Layer: 0
+  m_Name: DinoLeftFinger1-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8555181956114848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3202584846555343958}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852279, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5850049238008819194}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3224321448026021240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4016251809993350698}
+  m_Layer: 0
+  m_Name: DinoSpine01CJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4016251809993350698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3224321448026021240}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852253, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2368902178365976567}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3234829970083997300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5596511186453772176}
+  m_Layer: 0
+  m_Name: DinoLeftToe2-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5596511186453772176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3234829970083997300}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852261, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 907855925394500901}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3294658776780400543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3723410258480328382}
+  m_Layer: 0
+  m_Name: DinoSpine01RJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3723410258480328382
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3294658776780400543}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000001117589, y: -0.000000025547248, z: -0.000000037136374, w: 1}
+  m_LocalPosition: {x: -0.000000114440795, y: -0.00000009290891, z: 2.4843037e-13}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4961380281230753071}
+  m_Father: {fileID: 997135459795034667}
+  m_LocalEulerAnglesHint: {x: 55.78208, y: 169.03354, z: -99.94912}
+--- !u!1 &3317660936806795856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5854953221527933527}
+  m_Layer: 0
+  m_Name: DinoTongue01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5854953221527933527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3317660936806795856}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000047222706, y: -1.4906682e-13, z: 0.00000003725309, w: 1}
+  m_LocalPosition: {x: 0.00000007629407, y: -0.00000007629387, z: -1.4893479e-14}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2556279642921481688}
+  m_Father: {fileID: 5185030583668739442}
+  m_LocalEulerAnglesHint: {x: 0.000029130797, y: 179.99998, z: 162.65266}
+--- !u!1 &3345147635026177414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7973753867819577532}
+  m_Layer: 0
+  m_Name: DinoSpine01LJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7973753867819577532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345147635026177414}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852257, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8290257466282488952}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3413257336444440689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2368902178365976567}
+  m_Layer: 0
+  m_Name: DinoSpine01CJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2368902178365976567
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413257336444440689}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.2148201e-14, y: 2.316564e-14, z: -0.000000011525176, w: 1}
+  m_LocalPosition: {x: -0.00000003814726, y: 0.00000021226703, z: 1.6532496e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4016251809993350698}
+  m_Father: {fileID: 997135459795034667}
+  m_LocalEulerAnglesHint: {x: -0.0006301556, y: -0.00000983098, z: -89.108986}
+--- !u!1 &3418460192529973815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4549516527597284123}
+  m_Layer: 0
+  m_Name: DinoRightFinger1-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4549516527597284123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3418460192529973815}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000121564625, y: 0.000000018355047, z: -0.00000003725323, w: 1}
+  m_LocalPosition: {x: -0.00000004053093, y: -0.00000015797788, z: 0.000000015002685}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1077916226234440046}
+  m_Father: {fileID: 4756500583913216584}
+  m_LocalEulerAnglesHint: {x: 0.00018843097, y: -0.00007957856, z: -56.819702}
+--- !u!1 &3449009843270978134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 997135459795034667}
+  m_Layer: 0
+  m_Name: DinoSpine01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &997135459795034667
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3449009843270978134}
+  serializedVersion: 2
+  m_LocalRotation: {x: 3.8727908e-14, y: 6.400799e-10, z: -0.0000000087235925, w: 1}
+  m_LocalPosition: {x: -0.000000057220333, y: -0.0000001168997, z: -1.7164597e-13}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2368902178365976567}
+  - {fileID: 8290257466282488952}
+  - {fileID: 3723410258480328382}
+  - {fileID: 5479363461565418274}
+  m_Father: {fileID: 6684385603039569149}
+  m_LocalEulerAnglesHint: {x: 0.8052899, y: 179.71124, z: -7.3541217}
+--- !u!1 &3480612106261338272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6684385603039569149}
+  m_Layer: 0
+  m_Name: DinoPelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6684385603039569149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3480612106261338272}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000026077078, y: -0.00000021164875, z: -0.000000504987, w: 1}
+  m_LocalPosition: {x: 3.493978e-14, y: 0.000000019073486, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8199313337270488449}
+  - {fileID: 7477667874729148061}
+  - {fileID: 997135459795034667}
+  - {fileID: 2777485389930851621}
+  m_Father: {fileID: 8550778236247773231}
+  m_LocalEulerAnglesHint: {x: -0.7276054, y: 90.9936, z: -105.44458}
+--- !u!1 &3529603269287611035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4289718699843475690}
+  m_Layer: 0
+  m_Name: DinoLeftToe2-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4289718699843475690
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529603269287611035}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000014423854, y: 0.000000020954863, z: 0.000000021671514, w: 1}
+  m_LocalPosition: {x: 0.000000023841878, y: -0.000000032097574, z: -0.000000030573798}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8802291167539122313}
+  m_Father: {fileID: 7196976858479373754}
+  m_LocalEulerAnglesHint: {x: -16.97044, y: 90.91322, z: -90.29189}
+--- !u!1 &3538889315799613136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5600567526627654057}
+  m_Layer: 0
+  m_Name: DinoTail01LJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5600567526627654057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3538889315799613136}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000026961789, y: 0.000000021658689, z: 0.00000002793974, w: 1}
+  m_LocalPosition: {x: 0.00000009536742, y: -0.0000000026532714, z: -0.000000023841714}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2528154403320024370}
+  m_Father: {fileID: 2777485389930851621}
+  m_LocalEulerAnglesHint: {x: 2.65283, y: -80.66334, z: -23.867289}
+--- !u!1 &3612718934391224804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8635908528049901745}
+  m_Layer: 0
+  m_Name: DinoRightFinger2-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8635908528049901745
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3612718934391224804}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000074505357, y: 0.000000052154075, z: -0.0000000065193513, w: 1}
+  m_LocalPosition: {x: 0.000000071525584, y: 0.000000020843439, z: 0.000000045426994}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7222310597306397399}
+  m_Father: {fileID: 3723824977777376862}
+  m_LocalEulerAnglesHint: {x: 28.639864, y: -25.917456, z: -64.53429}
+--- !u!1 &3617973467009905260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1110418327473202200}
+  m_Layer: 0
+  m_Name: DinoRightToe3-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1110418327473202200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3617973467009905260}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000044996398, y: 0.000000007450569, z: 0.0000000042525756, w: 1}
+  m_LocalPosition: {x: -0.000000009536736, y: -0.000000007460203, z: -0.0000000096701145}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8911309971379978557}
+  m_Father: {fileID: 7750097981907178411}
+  m_LocalEulerAnglesHint: {x: -0.009896697, y: -4.71847, z: -0.12059726}
+--- !u!1 &3674501593357415527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 459025266570046934}
+  m_Layer: 0
+  m_Name: DinoLeftEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &459025266570046934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3674501593357415527}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000026076634, y: -0.000000019959382, z: -0.000000029802806, w: 1}
+  m_LocalPosition: {x: -1.3553678e-14, y: 0.000000032758482, z: 0.00000002861034}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 318805034754222779}
+  m_Father: {fileID: 8749076282974088746}
+  m_LocalEulerAnglesHint: {x: -12.643184, y: 36.26548, z: 4.371999}
+--- !u!1 &3739396524935163112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5721125636618206746}
+  m_Layer: 0
+  m_Name: DinoTail06_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5721125636618206746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3739396524935163112}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852325, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1721469300451904638}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3838174294996535207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3511408992786712844}
+  m_Layer: 0
+  m_Name: DinoLeftCalf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3511408992786712844
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3838174294996535207}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000011175889, y: 0.0000000055879035, z: -0.000000042491713, w: 1}
+  m_LocalPosition: {x: 0.00000009536738, y: 0.000000019363851, z: -5.157582e-10}
+  m_LocalScale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5748370465527186150}
+  - {fileID: 6008247575196292972}
+  m_Father: {fileID: 8199313337270488449}
+  m_LocalEulerAnglesHint: {x: -2.631412, y: 9.072689, z: 33.474953}
+--- !u!1 &3947006068377083451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3974353229783966907}
+  m_Layer: 0
+  m_Name: DinoLeftToe3-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3974353229783966907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3947006068377083451}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000008032919, y: 0.000000018626565, z: 0.000000018956023, w: 1}
+  m_LocalPosition: {x: 0.000000028610263, y: -0.000000019964252, z: -4.2590592e-10}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2020529624997213499}
+  m_Father: {fileID: 5076345162298574302}
+  m_LocalEulerAnglesHint: {x: 0.009901443, y: -4.7185273, z: 0.12065292}
+--- !u!1 &4054896919769253200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1869631928468566291}
+  m_Layer: 0
+  m_Name: tyrannosaurus_reference_skeleton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1869631928468566291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4054896919769253200}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8550778236247773231}
+  m_Father: {fileID: 2145423174421791098}
+  m_LocalEulerAnglesHint: {x: -89.98021, y: 0, z: 0}
+--- !u!1 &4073153610028695682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2618645426259065633}
+  m_Layer: 0
+  m_Name: DinoRightToe1-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2618645426259065633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4073153610028695682}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852255, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7637697050725631752}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4112366962360940871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3232944047332798308}
+  m_Layer: 0
+  m_Name: DinoLeftThighJiggle01_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3232944047332798308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4112366962360940871}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852228, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 413226142199007717}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4182982907852932662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7222310597306397399}
+  m_Layer: 0
+  m_Name: DinoRightFinger2-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7222310597306397399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4182982907852932662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000004386268, y: 0.000000006637328, z: 0.000000022351623, w: 1}
+  m_LocalPosition: {x: 0.0000000095368495, y: -0.000000066566066, z: 0.000000013836046}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7233786760640462570}
+  m_Father: {fileID: 8635908528049901745}
+  m_LocalEulerAnglesHint: {x: 0.0000014675595, y: -0.0000020006225, z: -70.60616}
+--- !u!1 &4317151602464417165
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8567993405153993767}
+  m_Layer: 0
+  m_Name: DinoRightThighJiggle02_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8567993405153993767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4317151602464417165}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852253, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3274165003866678372}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4400970164484862273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7726454169256876877}
+  m_Layer: 0
+  m_Name: DinoSpine03RJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7726454169256876877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4400970164484862273}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852257, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1408551535369140985}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4442008546075245536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2513977259017717675}
+  m_Layer: 0
+  m_Name: DinoSpine03LJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2513977259017717675
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4442008546075245536}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000030704564, y: 0.000000017293594, z: 0.000000015832482, w: 1}
+  m_LocalPosition: {x: 0.0000000095367705, y: -0.00000001510451, z: 0.000000014305587}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1267212596588647074}
+  m_Father: {fileID: 4787547394275660426}
+  m_LocalEulerAnglesHint: {x: 1.2529683, y: 83.24327, z: -34.15878}
+--- !u!1 &4506873232936225466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8199313337270488449}
+  m_Layer: 0
+  m_Name: DinoLeftThigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8199313337270488449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4506873232936225466}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000000745058, y: 0.0000000086204235, z: 0.000000021428177, w: 1}
+  m_LocalPosition: {x: -0.00000009536752, y: 0.000000033378477, z: -0.000000028610199}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3511408992786712844}
+  - {fileID: 413226142199007717}
+  - {fileID: 6153207433841674056}
+  m_Father: {fileID: 6684385603039569149}
+  m_LocalEulerAnglesHint: {x: -8.994587, y: 5.6275806, z: -96.54034}
+--- !u!1 &4693758972817894089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6434005126374863146}
+  m_Layer: 0
+  m_Name: DinoRightFenestra_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6434005126374863146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4693758972817894089}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0128521975, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8965881555056345424}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4810546760615926110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4756500583913216584}
+  m_Layer: 0
+  m_Name: DinoRightFinger1-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4756500583913216584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4810546760615926110}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000009156107, y: -0.000000020254303, z: -0.0000000018627682, w: 1}
+  m_LocalPosition: {x: 0.00000001907335, y: 0.00000009412031, z: -1.5820935e-10}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4549516527597284123}
+  m_Father: {fileID: 5031607320409755033}
+  m_LocalEulerAnglesHint: {x: -0.00000062221955, y: 0.0000022639665, z: -51.093735}
+--- !u!1 &4850652971969919332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1658846801231789889}
+  m_Layer: 0
+  m_Name: DinoLeftToe1-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1658846801231789889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4850652971969919332}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852252, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1856213009294861636}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4929890827917275247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4701958840972507339}
+  m_Layer: 0
+  m_Name: DinoRightShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4701958840972507339
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4929890827917275247}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000007078055, y: -0.00000002368485, z: -0.000000022351847, w: 1}
+  m_LocalPosition: {x: 0.000000038146712, y: 0.00000018344629, z: -0.000000038146492}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1286618620607308801}
+  m_Father: {fileID: 5479363461565418274}
+  m_LocalEulerAnglesHint: {x: 16.749937, y: -163.79456, z: -112.07403}
+--- !u!1 &4968257481764111877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5850049238008819194}
+  m_Layer: 0
+  m_Name: DinoLeftFinger1-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5850049238008819194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4968257481764111877}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000062674954, y: -0.000000006652493, z: -0.000000052152746, w: 1}
+  m_LocalPosition: {x: -0.00000010013587, y: 0.00000003736527, z: -0.000000009521279}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8555181956114848}
+  m_Father: {fileID: 6321617909486216290}
+  m_LocalEulerAnglesHint: {x: -0.00024375936, y: -0.00008626386, z: 46.636936}
+--- !u!1 &5028655182852887231
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5461554134739337867}
+  m_Layer: 0
+  m_Name: DinoSpine04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5461554134739337867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5028655182852887231}
+  serializedVersion: 2
+  m_LocalRotation: {x: -5.083281e-16, y: -1.2656412e-14, z: -0.000000014901048, w: 1}
+  m_LocalPosition: {x: -0.00000009536737, y: -0.00000005722444, z: 1.4821995e-13}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 521475585347951934}
+  - {fileID: 2013884700635216356}
+  - {fileID: 1021135138942143589}
+  m_Father: {fileID: 4787547394275660426}
+  m_LocalEulerAnglesHint: {x: -1.5472366, y: -4.473235, z: 29.42568}
+--- !u!1 &5029446813013433451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1408551535369140985}
+  m_Layer: 0
+  m_Name: DinoSpine03RJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1408551535369140985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5029446813013433451}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000017840667, y: 0.0000000061176655, z: -0.0000000121071535, w: 1}
+  m_LocalPosition: {x: 0.00000018119798, y: 0.00000013748367, z: 0.000000028610632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7726454169256876877}
+  m_Father: {fileID: 4787547394275660426}
+  m_LocalEulerAnglesHint: {x: 1.2454652, y: 96.76247, z: -145.8363}
+--- !u!1 &5060058968570982419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6153207433841674056}
+  m_Layer: 0
+  m_Name: DinoLeftThighJiggle02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6153207433841674056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060058968570982419}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000011175875, y: 0.0000000055879212, z: 0.0000000072177624, w: 1}
+  m_LocalPosition: {x: -0.00000013351439, y: 0.0000000143049315, z: 0.000000019073534}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2329255982220651004}
+  m_Father: {fileID: 8199313337270488449}
+  m_LocalEulerAnglesHint: {x: 66.0569, y: -157.98418, z: -67.791824}
+--- !u!1 &5060560752074239662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5748370465527186150}
+  m_Layer: 0
+  m_Name: DinoLeftAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5748370465527186150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060560752074239662}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000037252947, y: 0.0000000055879363, z: 0.0000000019208484, w: 1}
+  m_LocalPosition: {x: -0.00000011444097, y: 0.00000004314824, z: 0.000000007884121}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7196976858479373754}
+  m_Father: {fileID: 3511408992786712844}
+  m_LocalEulerAnglesHint: {x: -4.2514005, y: 2.0542257, z: -26.778883}
+--- !u!1 &5086483918408511859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1077916226234440046}
+  m_Layer: 0
+  m_Name: DinoRightFinger1-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1077916226234440046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5086483918408511859}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852279, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4549516527597284123}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5302301447022312652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5140792764374139959}
+  m_Layer: 0
+  m_Name: DinoLeftHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5140792764374139959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5302301447022312652}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000149011585, y: -0.000000011175846, z: -0.00000003795133, w: 1}
+  m_LocalPosition: {x: -0.000000047683848, y: 0.00000006500329, z: -0.00000004478186}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 781051263511850605}
+  - {fileID: 3382137759467658891}
+  m_Father: {fileID: 2757340993721533657}
+  m_LocalEulerAnglesHint: {x: -25.536722, y: 8.1951065, z: 47.408783}
+--- !u!1 &5306535365188290908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6332299707539295793}
+  m_Layer: 0
+  m_Name: DinoRightToe1-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6332299707539295793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5306535365188290908}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000024507671, y: 0.000000015024785, z: 0.0000000047147894, w: 1}
+  m_LocalPosition: {x: -0.0000000047683497, y: -0.000000018268603, z: -0.000000009287039}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7637697050725631752}
+  m_Father: {fileID: 7593945671902248248}
+  m_LocalEulerAnglesHint: {x: -0.00000010615347, y: -0.00000064042507, z: 0.10169724}
+--- !u!1 &5370269566442765802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1721469300451904638}
+  m_Layer: 0
+  m_Name: DinoTail06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1721469300451904638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5370269566442765802}
+  serializedVersion: 2
+  m_LocalRotation: {x: 3.986927e-13, y: -4.0307625e-14, z: 9.316039e-10, w: 1}
+  m_LocalPosition: {x: -0.00000007629381, y: -0.00000009461592, z: -2.6586025e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5721125636618206746}
+  m_Father: {fileID: 6863173060878562642}
+  m_LocalEulerAnglesHint: {x: 0.43046385, y: 0.026164526, z: -14.410387}
+--- !u!1 &5505994698775379277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5890185326037145580}
+  - component: {fileID: 3930817467730467040}
+  m_Layer: 0
+  m_Name: tyrannosaurus_reference
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5890185326037145580
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5505994698775379277}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2145423174421791098}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &3930817467730467040
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5505994698775379277}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 0acb1b19b03352f4f8e3b9a012bf79ae, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -1373989603523025388, guid: a8c9255ac2bff444080e26fa55ad8241, type: 3}
+  m_Bones:
+  - {fileID: 8550778236247773231}
+  - {fileID: 6684385603039569149}
+  - {fileID: 2777485389930851621}
+  - {fileID: 8867130356278090016}
+  - {fileID: 1950315915290207078}
+  - {fileID: 7643962413398336423}
+  - {fileID: 6863173060878562642}
+  - {fileID: 1721469300451904638}
+  - {fileID: 529452585064001750}
+  - {fileID: 5600567526627654057}
+  - {fileID: 8199313337270488449}
+  - {fileID: 3511408992786712844}
+  - {fileID: 5748370465527186150}
+  - {fileID: 7196976858479373754}
+  - {fileID: 5585678731995776577}
+  - {fileID: 8299848262129995311}
+  - {fileID: 1856213009294861636}
+  - {fileID: 4289718699843475690}
+  - {fileID: 8802291167539122313}
+  - {fileID: 907855925394500901}
+  - {fileID: 8862366925859976251}
+  - {fileID: 5076345162298574302}
+  - {fileID: 3974353229783966907}
+  - {fileID: 6008247575196292972}
+  - {fileID: 6153207433841674056}
+  - {fileID: 413226142199007717}
+  - {fileID: 997135459795034667}
+  - {fileID: 5479363461565418274}
+  - {fileID: 4787547394275660426}
+  - {fileID: 5461554134739337867}
+  - {fileID: 1021135138942143589}
+  - {fileID: 8749076282974088746}
+  - {fileID: 8965881555056345424}
+  - {fileID: 1600833681365092815}
+  - {fileID: 6524596772665313890}
+  - {fileID: 459025266570046934}
+  - {fileID: 5185030583668739442}
+  - {fileID: 6182616568442610133}
+  - {fileID: 5854953221527933527}
+  - {fileID: 2556279642921481688}
+  - {fileID: 5552700165266538605}
+  - {fileID: 2013884700635216356}
+  - {fileID: 521475585347951934}
+  - {fileID: 1408551535369140985}
+  - {fileID: 2513977259017717675}
+  - {fileID: 4701958840972507339}
+  - {fileID: 1286618620607308801}
+  - {fileID: 4872346283521751807}
+  - {fileID: 3723824977777376862}
+  - {fileID: 8635908528049901745}
+  - {fileID: 7222310597306397399}
+  - {fileID: 7233786760640462570}
+  - {fileID: 5031607320409755033}
+  - {fileID: 4756500583913216584}
+  - {fileID: 4549516527597284123}
+  - {fileID: 3788472794701054916}
+  - {fileID: 6604579493360053212}
+  - {fileID: 2757340993721533657}
+  - {fileID: 5140792764374139959}
+  - {fileID: 781051263511850605}
+  - {fileID: 6321617909486216290}
+  - {fileID: 5850049238008819194}
+  - {fileID: 3382137759467658891}
+  - {fileID: 5338184489834930253}
+  - {fileID: 1887419791115449167}
+  - {fileID: 8290257466282488952}
+  - {fileID: 3723410258480328382}
+  - {fileID: 2368902178365976567}
+  - {fileID: 7477667874729148061}
+  - {fileID: 7899867144440634415}
+  - {fileID: 6839708629380690324}
+  - {fileID: 2463660426890977177}
+  - {fileID: 7593945671902248248}
+  - {fileID: 6332299707539295793}
+  - {fileID: 7637697050725631752}
+  - {fileID: 6454879781997909952}
+  - {fileID: 7750097981907178411}
+  - {fileID: 1110418327473202200}
+  - {fileID: 5765423219798936205}
+  - {fileID: 3972135317789711242}
+  - {fileID: 8614393684824675290}
+  - {fileID: 9015848745815295453}
+  - {fileID: 3274165003866678372}
+  - {fileID: 321678353969693729}
+  - {fileID: 6977549185949117674}
+  - {fileID: 8559484534679188171}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 8550778236247773231}
+  m_AABB:
+    m_Center: {x: -0.34033847, y: 0.0383372, z: 0.00008830428}
+    m_Extent: {x: 0.9036206, y: 0.61108637, z: 0.3998142}
+  m_DirtyAABB: 0
+--- !u!1 &5575842806968873546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1267212596588647074}
+  m_Layer: 0
+  m_Name: DinoSpine03LJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1267212596588647074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5575842806968873546}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852261, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2513977259017717675}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5592770102956542535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8862366925859976251}
+  m_Layer: 0
+  m_Name: DinoLeftToe3-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8862366925859976251
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5592770102956542535}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000042363536, y: 0.000000022817703, z: -0.000000013718911, w: 1}
+  m_LocalPosition: {x: -1.3549787e-14, y: -0.000000003487369, z: 0.000000003996903}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5076345162298574302}
+  m_Father: {fileID: 7196976858479373754}
+  m_LocalEulerAnglesHint: {x: -5.2934666, y: 94.198845, z: -127.75934}
+--- !u!1 &5629485592625763912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8097586602246835680}
+  m_Layer: 0
+  m_Name: DinoRightCalfJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8097586602246835680
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5629485592625763912}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0128522515, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9015848745815295453}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5752494810627868101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4787547394275660426}
+  m_Layer: 0
+  m_Name: DinoSpine03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4787547394275660426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5752494810627868101}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.6906877e-13, y: -2.620125e-14, z: 0.000000022351513, w: 1}
+  m_LocalPosition: {x: 0.000000038147064, y: -0.00000006847813, z: 2.6193427e-14}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2513977259017717675}
+  - {fileID: 1408551535369140985}
+  - {fileID: 5461554134739337867}
+  m_Father: {fileID: 5479363461565418274}
+  m_LocalEulerAnglesHint: {x: -2.7799342, y: 0.56213725, z: 23.52338}
+--- !u!1 &5822270345505255786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2145423174421791098}
+  - component: {fileID: 3087185002490932406}
+  - component: {fileID: 1770467825717162978}
+  - component: {fileID: 8894645117828670559}
+  m_Layer: 0
+  m_Name: Tyrannosaurus
+  m_TagString: Tyrannosaurus
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2145423174421791098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5822270345505255786}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.008, y: 0.008, z: 0.008}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 5890185326037145580}
+  - {fileID: 1869631928468566291}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &3087185002490932406
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5822270345505255786}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e93de7c1471fa9d468930d909daa2c8b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!195 &1770467825717162978
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5822270345505255786}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 50
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 30
+  m_StoppingDistance: 2
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 200
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &8894645117828670559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5822270345505255786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0038c16c34866b4f9e25c9c0dc0f7e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Behavior::Unity.Behavior.BehaviorGraphAgent
+  m_Graph: {fileID: -5581069262055003908, guid: c2aa74882e415fd4096fa2c7013d9a11, type: 2}
+  m_BlackboardVariableOverridesList:
+  - rid: 5928598968396415856
+  - rid: 5928598968396415857
+  - rid: 3217081421248856135
+  - rid: 3217081421374685942
+  m_OriginalGraph: {fileID: 0}
+  m_IsInitialised: 0
+  m_IsStarted: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 3217081421248856135
+      type: {class: 'BlackboardVariable`1[[System.Collections.Generic.List`1[[UnityEngine.GameObject, UnityEngine.CoreModule]], mscorlib]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 7275811157265082854
+          m_Value1: 14257910232583742267
+        Name: Waypoints
+        m_Value:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+    - rid: 3217081421374685942
+      type: {class: 'BlackboardVariable`1[[CurrentAction, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 16833510348678002812
+          m_Value1: 9187303660372015209
+        Name: New CurrentAction
+        m_Value: 4
+    - rid: 5928598968396415856
+      type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 1
+          m_Value1: 0
+        Name: Self
+        m_Value: {fileID: 5822270345505255786}
+    - rid: 5928598968396415857
+      type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 14963510857857768913
+          m_Value1: 10903351874069605411
+        Name: NavTarget
+        m_Value: {fileID: 0}
+--- !u!1 &5841936627246044497
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5031607320409755033}
+  m_Layer: 0
+  m_Name: DinoRightFinger1-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5031607320409755033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5841936627246044497}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000014901183, y: 0.000000011175856, z: -0.000000019557778, w: 1}
+  m_LocalPosition: {x: -0.000000052452062, y: -0.000000012237349, z: 0.000000035890288}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4756500583913216584}
+  m_Father: {fileID: 3723824977777376862}
+  m_LocalEulerAnglesHint: {x: 22.727648, y: 7.543485, z: -36.315765}
+--- !u!1 &5947339296612175723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6604579493360053212}
+  m_Layer: 0
+  m_Name: DinoLeftBicep
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6604579493360053212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5947339296612175723}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000065191856, y: 0.000000020954783, z: -0.00000012334202, w: 1}
+  m_LocalPosition: {x: -0.000000019073566, y: 0.000000038934882, z: -0.000000040747754}
+  m_LocalScale: {x: 1.0000004, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2757340993721533657}
+  m_Father: {fileID: 3788472794701054916}
+  m_LocalEulerAnglesHint: {x: 1.0080351, y: 167.6272, z: -131.3523}
+--- !u!1 &5989145178995208962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1600833681365092815}
+  m_Layer: 0
+  m_Name: DinoLeftFenestra
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1600833681365092815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5989145178995208962}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000027822878, y: 0.000000007980313, z: -0.000000011176266, w: 1}
+  m_LocalPosition: {x: 0.00000009536722, y: 0.00000018773072, z: 0.000000076294015}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 863655148438487113}
+  m_Father: {fileID: 8749076282974088746}
+  m_LocalEulerAnglesHint: {x: -3.6041617, y: 86.23183, z: 10.893462}
+--- !u!1 &5992510218323553639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6839708629380690324}
+  m_Layer: 0
+  m_Name: DinoRightAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6839708629380690324
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5992510218323553639}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000000279396, y: 0.0000000023282947, z: 0.000000022904683, w: 1}
+  m_LocalPosition: {x: 0.00000003814692, y: 0.00000003106141, z: -0.000000009767991}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2463660426890977177}
+  m_Father: {fileID: 7899867144440634415}
+  m_LocalEulerAnglesHint: {x: 0.3244879, y: 4.3984427, z: 46.247196}
+--- !u!1 &5999356884211816172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9015848745815295453}
+  m_Layer: 0
+  m_Name: DinoRightCalfJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9015848745815295453
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5999356884211816172}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.582517e-10, y: 3.3283637e-10, z: -0.000000025960794, w: 1}
+  m_LocalPosition: {x: -0.000000019073449, y: -0.000000026988591, z: -0.0000000020909368}
+  m_LocalScale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8097586602246835680}
+  m_Father: {fileID: 7899867144440634415}
+  m_LocalEulerAnglesHint: {x: 0.0006770021, y: 0.00012435715, z: -79.59478}
+--- !u!1 &6062443787471896996
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 863655148438487113}
+  m_Layer: 0
+  m_Name: DinoLeftFenestra_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &863655148438487113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6062443787471896996}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852188, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1600833681365092815}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6101138907427167831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7233786760640462570}
+  m_Layer: 0
+  m_Name: DinoRightFinger2-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7233786760640462570
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6101138907427167831}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000022196009, y: -0.0000000029512321, z: -0.0000000074509305, w: 1}
+  m_LocalPosition: {x: -0.000000023841917, y: 0.000000045209575, z: 0.000000007884561}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4050058962706438249}
+  m_Father: {fileID: 7222310597306397399}
+  m_LocalEulerAnglesHint: {x: 0.00012479993, y: -0.000036186113, z: -41.925217}
+--- !u!1 &6109490070288834406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7643962413398336423}
+  m_Layer: 0
+  m_Name: DinoTail04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7643962413398336423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6109490070288834406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 4.2851966e-14, y: 1.6417528e-14, z: -0.000000002794113, w: 1}
+  m_LocalPosition: {x: -0.00000007629398, y: 0.000000036963073, z: -3.5555746e-13}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6863173060878562642}
+  m_Father: {fileID: 1950315915290207078}
+  m_LocalEulerAnglesHint: {x: -0.048358746, y: 0.25608468, z: 4.053063}
+--- !u!1 &6219487546172358528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6454879781997909952}
+  m_Layer: 0
+  m_Name: DinoRightToe3-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6454879781997909952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6219487546172358528}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000010051302, y: -0.000000058934635, z: -0.00000002417822, w: 1}
+  m_LocalPosition: {x: 0.00000000953674, y: 0.0000000053261577, z: 0.000000016061467}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7750097981907178411}
+  m_Father: {fileID: 2463660426890977177}
+  m_LocalEulerAnglesHint: {x: 5.2999916, y: 94.18008, z: 127.76582}
+--- !u!1 &6361682830300897776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5779609059004258881}
+  m_Layer: 0
+  m_Name: ragdoll_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5779609059004258881
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6361682830300897776}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852325, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6977549185949117674}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6465740913780660035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2528154403320024370}
+  m_Layer: 0
+  m_Name: DinoTail01LJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2528154403320024370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6465740913780660035}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852255, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5600567526627654057}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6483732189998268645
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6863173060878562642}
+  m_Layer: 0
+  m_Name: DinoTail05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6863173060878562642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6483732189998268645}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.1451986e-13, y: 2.3634067e-14, z: 9.316607e-10, w: 1}
+  m_LocalPosition: {x: -0.00000011444069, y: -0.00000015398605, z: 2.0674265e-13}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1721469300451904638}
+  m_Father: {fileID: 7643962413398336423}
+  m_LocalEulerAnglesHint: {x: 0.38445196, y: -0.017164744, z: -17.35005}
+--- !u!1 &6500677655510592401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7637697050725631752}
+  m_Layer: 0
+  m_Name: DinoRightToe1-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7637697050725631752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6500677655510592401}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000024714133, y: 8.077078e-10, z: 9.685808e-10, w: 1}
+  m_LocalPosition: {x: -4.6521705e-15, y: 0.0000000053251994, z: 0.0000000025991977}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2618645426259065633}
+  m_Father: {fileID: 6332299707539295793}
+  m_LocalEulerAnglesHint: {x: -0.0057243253, y: -1.5249742, z: -0.21718541}
+--- !u!1 &6507802655231923351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8550778236247773231}
+  m_Layer: 0
+  m_Name: Ref
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8550778236247773231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6507802655231923351}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071067, w: 0.7071069}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8559484534679188171}
+  - {fileID: 6684385603039569149}
+  - {fileID: 6977549185949117674}
+  m_Father: {fileID: 1869631928468566291}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.000057295776}
+--- !u!1 &6510779550621283088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2556279642921481688}
+  m_Layer: 0
+  m_Name: DinoTongue02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2556279642921481688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6510779550621283088}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.1934827e-13, y: 1.7419654e-14, z: -5.9893564e-14, w: 1}
+  m_LocalPosition: {x: -0.00000014305107, y: -0.0000000551522, z: -5.7933356e-13}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5552700165266538605}
+  m_Father: {fileID: 5854953221527933527}
+  m_LocalEulerAnglesHint: {x: -1.3675344e-10, y: 0.0000000018010077, z: 19.604898}
+--- !u!1 &6544524755870548662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2329255982220651004}
+  m_Layer: 0
+  m_Name: DinoLeftThighJiggle02_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2329255982220651004
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6544524755870548662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852243, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6153207433841674056}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6765445919105486299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 781051263511850605}
+  m_Layer: 0
+  m_Name: DinoLeftFinger1-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &781051263511850605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6765445919105486299}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000014901168, y: 0.000000013038483, z: 0.0000000055878937, w: 1}
+  m_LocalPosition: {x: 0.00000016689286, y: 0.000000050566907, z: -0.00000003768391}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6321617909486216290}
+  m_Father: {fileID: 5140792764374139959}
+  m_LocalEulerAnglesHint: {x: -22.710884, y: 7.5468483, z: 26.141827}
+--- !u!1 &6785763730491544172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2013884700635216356}
+  m_Layer: 0
+  m_Name: DinoSpine04RJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2013884700635216356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6785763730491544172}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000029569526, y: -0.00000006745681, z: -2.1316282e-14, w: 1}
+  m_LocalPosition: {x: 0.00000020980823, y: 0.000000094572165, z: -0.00000006198856}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8823810751643636755}
+  m_Father: {fileID: 5461554134739337867}
+  m_LocalEulerAnglesHint: {x: 20.830477, y: 84.24956, z: 148.86075}
+--- !u!1 &6844923342954656665
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6524596772665313890}
+  m_Layer: 0
+  m_Name: DinoRightEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6524596772665313890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6844923342954656665}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000006146727, y: 0.00000050903157, z: -0.0000002756726, w: 1}
+  m_LocalPosition: {x: 1.6212188e-13, y: -0.000000115061106, z: -0.00000003814686}
+  m_LocalScale: {x: 0.99999917, y: 0.9999998, z: 1.000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3879941645323480541}
+  m_Father: {fileID: 8749076282974088746}
+  m_LocalEulerAnglesHint: {x: -12.642726, y: 146.44043, z: 175.62842}
+--- !u!1 &6898695936940429716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7477667874729148061}
+  m_Layer: 0
+  m_Name: DinoRightThigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7477667874729148061
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6898695936940429716}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000001862644, y: 0.0000000067578005, z: 0.000000008855258, w: 1}
+  m_LocalPosition: {x: -0.00000003814693, y: -0.000000057220518, z: 0.0000000095367625}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7899867144440634415}
+  - {fileID: 321678353969693729}
+  - {fileID: 3274165003866678372}
+  m_Father: {fileID: 6684385603039569149}
+  m_LocalEulerAnglesHint: {x: -12.202352, y: 176.2198, z: -104.32278}
+--- !u!1 &6987491524256203370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7196976858479373754}
+  m_Layer: 0
+  m_Name: DinoLeftFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7196976858479373754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6987491524256203370}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000055879323, y: 0.0000000013969865, z: -0.0000000036853351, w: 1}
+  m_LocalPosition: {x: -7.202456e-15, y: 0.0000000029640848, z: -0.0000000113652625}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5585678731995776577}
+  - {fileID: 4289718699843475690}
+  - {fileID: 8862366925859976251}
+  m_Father: {fileID: 5748370465527186150}
+  m_LocalEulerAnglesHint: {x: 6.1559834, y: -0.8195568, z: 15.074046}
+--- !u!1 &7035361150959652485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1856213009294861636}
+  m_Layer: 0
+  m_Name: DinoLeftToe1-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1856213009294861636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7035361150959652485}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000042528665, y: -0.000000012915444, z: -0.0000000036654397, w: 1}
+  m_LocalPosition: {x: -0.000000004768382, y: 0.0000000056247518, z: 0.000000002708931}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1658846801231789889}
+  m_Father: {fileID: 8299848262129995311}
+  m_LocalEulerAnglesHint: {x: 0.0057248273, y: -1.5250328, z: 0.21719064}
+--- !u!1 &7240193391728145739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1950315915290207078}
+  m_Layer: 0
+  m_Name: DinoTail03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1950315915290207078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7240193391728145739}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.369768e-15, y: -1.9095755e-14, z: -0.00000000279397, w: 1}
+  m_LocalPosition: {x: 0.00000003814696, y: 0.000000008632106, z: 3.973841e-14}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7643962413398336423}
+  m_Father: {fileID: 8867130356278090016}
+  m_LocalEulerAnglesHint: {x: -0.09152817, y: 0.5823273, z: 6.1299314}
+--- !u!1 &7349090562471485970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3557018695849719512}
+  m_Layer: 0
+  m_Name: DinoLeftCalfJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3557018695849719512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7349090562471485970}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852249, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6008247575196292972}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7568204129361362247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8614393684824675290}
+  m_Layer: 0
+  m_Name: DinoRightToe2-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8614393684824675290
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7568204129361362247}
+  serializedVersion: 2
+  m_LocalRotation: {x: -5.428263e-10, y: 2.220446e-14, z: -0.00000000534049, w: 1}
+  m_LocalPosition: {x: -0.000000038147004, y: 0.000000032724287, z: -0.00000000963865}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9090160778924943372}
+  m_Father: {fileID: 3972135317789711242}
+  m_LocalEulerAnglesHint: {x: -0.025337713, y: -8.693454, z: -0.119617485}
+--- !u!1 &7696414580494887088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5338184489834930253}
+  m_Layer: 0
+  m_Name: DinoLeftFinger2-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5338184489834930253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7696414580494887088}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000042484256, y: -0.0000000015233822, z: 0.000000018626286, w: 1}
+  m_LocalPosition: {x: -0.00000007152518, y: -0.00000017836187, z: -0.00000004818948}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1887419791115449167}
+  m_Father: {fileID: 3382137759467658891}
+  m_LocalEulerAnglesHint: {x: 0.0000026952432, y: -0.00000060991954, z: 60.42338}
+--- !u!1 &7719378659540950690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6156818367516512032}
+  m_Layer: 0
+  m_Name: camera_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6156818367516512032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7719378659540950690}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852325, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8559484534679188171}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7779775119009047514
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3972135317789711242}
+  m_Layer: 0
+  m_Name: DinoRightToe2-02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3972135317789711242
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7779775119009047514}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000029641187, y: -0.0000000072177437, z: -0.0000000072177144, w: 1}
+  m_LocalPosition: {x: -0.000000009536699, y: -0.00000002861023, z: 0.000000010165783}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8614393684824675290}
+  m_Father: {fileID: 5765423219798936205}
+  m_LocalEulerAnglesHint: {x: -0.000000096352316, y: 8.476053, z: 0.00000021418225}
+--- !u!1 &7887996390631430068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8867130356278090016}
+  m_Layer: 0
+  m_Name: DinoTail02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8867130356278090016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7887996390631430068}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.876471e-16, y: -1.2045845e-14, z: -0.000000005587996, w: 1}
+  m_LocalPosition: {x: 0.000000038147085, y: -0.0000000857343, z: -9.206624e-15}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1950315915290207078}
+  m_Father: {fileID: 2777485389930851621}
+  m_LocalEulerAnglesHint: {x: -0.030471332, y: 0.91697407, z: 0.6149914}
+--- !u!1 &7993701655565664527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7213449102395620776}
+  m_Layer: 0
+  m_Name: DinoTail01RJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7213449102395620776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7993701655565664527}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852249, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 529452585064001750}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8373555440617056440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5185030583668739442}
+  m_Layer: 0
+  m_Name: DinoJaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5185030583668739442
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8373555440617056440}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.1384806e-15, y: 6.494813e-14, z: -0.000000059605185, w: 1}
+  m_LocalPosition: {x: -0.000000019073598, y: 0.00000008044217, z: 5.480362e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6182616568442610133}
+  - {fileID: 5854953221527933527}
+  m_Father: {fileID: 8749076282974088746}
+  m_LocalEulerAnglesHint: {x: -0.00001420874, y: 0.0001137046, z: 7.1281056}
+--- !u!1 &8396500985781210156
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1679898966294167820}
+  m_Layer: 0
+  m_Name: DinoSpine04LJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1679898966294167820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8396500985781210156}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852282, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 521475585347951934}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8495545309243903362
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 529452585064001750}
+  m_Layer: 0
+  m_Name: DinoTail01RJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &529452585064001750
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8495545309243903362}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000028958343, y: 0.00000018184856, z: 0.00000019464643, w: 1}
+  m_LocalPosition: {x: 0.000000019073441, y: 0.000000016420115, z: -0.000000052451917}
+  m_LocalScale: {x: 1.0000021, y: 0.9999999, z: 0.99999785}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7213449102395620776}
+  m_Father: {fileID: 2777485389930851621}
+  m_LocalEulerAnglesHint: {x: 2.6519063, y: -99.32778, z: -156.13565}
+--- !u!1 &8536166077496003108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5585678731995776577}
+  m_Layer: 0
+  m_Name: DinoLeftToe1-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5585678731995776577
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8536166077496003108}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000032596287, y: 4.6565152e-10, z: 0.0000000067703647, w: 1}
+  m_LocalPosition: {x: 0.000000009536715, y: 0.000000010817767, z: -0.000000005539844}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8299848262129995311}
+  m_Father: {fileID: 7196976858479373754}
+  m_LocalEulerAnglesHint: {x: -10.740028, y: 85.11027, z: -54.997562}
+--- !u!1 &8595531721229176984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8911309971379978557}
+  m_Layer: 0
+  m_Name: DinoRightToe3-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8911309971379978557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8595531721229176984}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852245, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1110418327473202200}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8628122305155538261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1286618620607308801}
+  m_Layer: 0
+  m_Name: DinoRightBicep
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1286618620607308801
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8628122305155538261}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000031665007, y: 0.000000026542661, z: -0.000000005151407, w: 1}
+  m_LocalPosition: {x: -0.00000003814696, y: -0.00000001703991, z: -0.000000014521344}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4872346283521751807}
+  m_Father: {fileID: 4701958840972507339}
+  m_LocalEulerAnglesHint: {x: 3.2512336, y: 168.51286, z: 117.726845}
+--- !u!1 &8720161823843821752
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 907855925394500901}
+  m_Layer: 0
+  m_Name: DinoLeftToe2-03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &907855925394500901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8720161823843821752}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000010089783, y: -0.000000037252914, z: -0.0000000023974838, w: 1}
+  m_LocalPosition: {x: -2.1421141e-14, y: 0.000000011519881, z: -0.0000000047629642}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5596511186453772176}
+  m_Father: {fileID: 8802291167539122313}
+  m_LocalEulerAnglesHint: {x: 0.025337161, y: -8.693454, z: 0.11961875}
+--- !u!1 &8801615215107686342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7899867144440634415}
+  m_Layer: 0
+  m_Name: DinoRightCalf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7899867144440634415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8801615215107686342}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000001862651, y: 0.0000000037252874, z: 0.0000000047730238, w: 1}
+  m_LocalPosition: {x: -0.000000038146887, y: -0.00000005884219, z: -0.0000000059112777}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6839708629380690324}
+  - {fileID: 9015848745815295453}
+  m_Father: {fileID: 7477667874729148061}
+  m_LocalEulerAnglesHint: {x: 0.8665062, y: 7.894334, z: -27.15622}
+--- !u!1 &8915111546887581776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6182616568442610133}
+  m_Layer: 0
+  m_Name: DinoHyoid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6182616568442610133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8915111546887581776}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.6148384e-14, y: -1.6731058e-13, z: 0.000000007450662, w: 1}
+  m_LocalPosition: {x: -0.00000007629384, y: -0.0000000762941, z: -5.580884e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1189734801886182259}
+  m_Father: {fileID: 5185030583668739442}
+  m_LocalEulerAnglesHint: {x: -0.000000010926532, y: -0.0000000051329843, z: -174.38068}
+--- !u!1 &8918503125280313647
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4961380281230753071}
+  m_Layer: 0
+  m_Name: DinoSpine01RJiggle_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4961380281230753071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8918503125280313647}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852256, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3723410258480328382}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9029062332050151571
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 413226142199007717}
+  m_Layer: 0
+  m_Name: DinoLeftThighJiggle01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &413226142199007717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9029062332050151571}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000007078053, y: 0.000000009313189, z: 0.000000007217815, w: 1}
+  m_LocalPosition: {x: -0.000000057220376, y: -0.00000009059915, z: -0.00000007629392}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3232944047332798308}
+  m_Father: {fileID: 8199313337270488449}
+  m_LocalEulerAnglesHint: {x: 50.80293, y: -35.64749, z: 44.02783}
+--- !u!1 &9076516934588585770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6977549185949117674}
+  m_Layer: 0
+  m_Name: ragdoll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6977549185949117674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9076516934588585770}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5779609059004258881}
+  m_Father: {fileID: 8550778236247773231}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9138954753541738339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 480628274898629455}
+  m_Layer: 0
+  m_Name: DinoLeftFinger2-03_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &480628274898629455
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9138954753541738339}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.012852273, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1887419791115449167}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9189035661460692903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6008247575196292972}
+  m_Layer: 0
+  m_Name: DinoLeftCalfJiggle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6008247575196292972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9189035661460692903}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000055037956, y: -0.00000000548075, z: -0.000000013620655, w: 1}
+  m_LocalPosition: {x: 0.00000005722046, y: -0.000000009826905, z: -0.000000016539486}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3557018695849719512}
+  m_Father: {fileID: 3511408992786712844}
+  m_LocalEulerAnglesHint: {x: 0.00067553937, y: -0.00012345545, z: 79.59204}
+--- !u!1 &9204140296627080275
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8965881555056345424}
+  m_Layer: 0
+  m_Name: DinoRightFenestra
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8965881555056345424
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9204140296627080275}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00002481259, y: 0.0000009039344, z: -0.0000007096721, w: 1}
+  m_LocalPosition: {x: 0.000000057220845, y: -0.00000025572805, z: 0.00000001907359}
+  m_LocalScale: {x: 1.000005, y: 1.0000004, z: 0.999995}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6434005126374863146}
+  m_Father: {fileID: 8749076282974088746}
+  m_LocalEulerAnglesHint: {x: -3.6043777, y: 93.76835, z: 169.10666}
