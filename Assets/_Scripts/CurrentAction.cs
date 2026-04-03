@@ -8,5 +8,6 @@ public enum CurrentAction
 	Drink,
 	Eat,
 	Attack,
-	Idle
+	Idle,
+	Die
 }

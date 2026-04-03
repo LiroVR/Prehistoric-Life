@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 113730358}
   m_Layer: 0
   m_Name: Waypoint (7)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -527,7 +527,7 @@ GameObject:
   - component: {fileID: 190416412}
   m_Layer: 0
   m_Name: Waypoint (1)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -582,15 +582,7 @@ MonoBehaviour:
           m_Value0: 7275811157265082854
           m_Value1: 14257910232583742267
         Name: Waypoints
-        m_Value:
-        - {fileID: 190416411}
-        - {fileID: 787840482}
-        - {fileID: 714575621}
-        - {fileID: 393517077}
-        - {fileID: 515340240}
-        - {fileID: 2045751588}
-        - {fileID: 113730357}
-        - {fileID: 1438354997}
+        m_Value: []
     - rid: 3217081421374685939
       type: {class: 'BlackboardVariable`1[[CurrentAction, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -741,7 +733,7 @@ GameObject:
   - component: {fileID: 393517078}
   m_Layer: 0
   m_Name: Waypoint (4)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -821,7 +813,7 @@ GameObject:
   - component: {fileID: 515340241}
   m_Layer: 0
   m_Name: Waypoint (5)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -852,7 +844,7 @@ GameObject:
   - component: {fileID: 714575622}
   m_Layer: 0
   m_Name: Waypoint (3)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -883,7 +875,7 @@ GameObject:
   - component: {fileID: 787840483}
   m_Layer: 0
   m_Name: Waypoint (2)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1228,7 +1220,7 @@ GameObject:
   - component: {fileID: 1438354998}
   m_Layer: 0
   m_Name: Waypoint (8)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1336,15 +1328,7 @@ MonoBehaviour:
           m_Value0: 7275811157265082854
           m_Value1: 14257910232583742267
         Name: Waypoints
-        m_Value:
-        - {fileID: 190416411}
-        - {fileID: 787840482}
-        - {fileID: 714575621}
-        - {fileID: 393517077}
-        - {fileID: 515340240}
-        - {fileID: 2045751588}
-        - {fileID: 113730357}
-        - {fileID: 1438354997}
+        m_Value: []
     - rid: 3217081421374685940
       type: {class: 'BlackboardVariable`1[[CurrentAction, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -1737,7 +1721,7 @@ GameObject:
   - component: {fileID: 2045751589}
   m_Layer: 0
   m_Name: Waypoint (6)
-  m_TagString: Untagged
+  m_TagString: Waypoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2514,6 +2498,10 @@ PrefabInstance:
     - target: {fileID: 6573694432928090854, guid: 3324c84a37597184782789ef8ba48e95, type: 3}
       propertyPath: managedReferences[3217081422882799841].GUID.m_Value1
       value: 804952814498700529
+      objectReference: {fileID: 0}
+    - target: {fileID: 6573694432928090854, guid: 3324c84a37597184782789ef8ba48e95, type: 3}
+      propertyPath: managedReferences[3217081421248856137].m_Value.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6573694432928090854, guid: 3324c84a37597184782789ef8ba48e95, type: 3}
       propertyPath: 'managedReferences[3217081421248856137].m_Value.Array.data[0]'
@@ -4866,6 +4854,10 @@ PrefabInstance:
     - target: {fileID: 8894645117828670559, guid: 0af9b1e60273ec04291add028b7f4439, type: 3}
       propertyPath: managedReferences[3217081422882799840].GUID.m_Value1
       value: 804952814498700529
+      objectReference: {fileID: 0}
+    - target: {fileID: 8894645117828670559, guid: 0af9b1e60273ec04291add028b7f4439, type: 3}
+      propertyPath: managedReferences[3217081421248856135].m_Value.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8894645117828670559, guid: 0af9b1e60273ec04291add028b7f4439, type: 3}
       propertyPath: 'managedReferences[3217081421248856135].m_Value.Array.data[0]'
