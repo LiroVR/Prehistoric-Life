@@ -1441,6 +1441,7 @@ GameObject:
   - component: {fileID: 1823688466}
   - component: {fileID: 1823688465}
   - component: {fileID: 1823688468}
+  - component: {fileID: 1823688469}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1515,12 +1516,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1823688464}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.27362892, y: -0, z: 0.0000000018626451, w: 0.9618354}
-  m_LocalPosition: {x: 0, y: 806.0003, z: -814.9994}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0.015080639, y: 0.9603735, z: -0.273213, w: 0.053010084}
+  m_LocalPosition: {x: 40.592415, y: 6.868003, z: 85.770386}
+  m_LocalScale: {x: 0.008000005, y: 0.008, z: 0.008000005}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 543450652820070953}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 31.761, y: 0, z: 0}
 --- !u!114 &1823688468
 MonoBehaviour:
@@ -1661,6 +1662,23 @@ MonoBehaviour:
       enableFptlForForwardOpaque: 0
       enableBigTilePrepass: 0
       isFptlEnabled: 0
+--- !u!114 &1823688469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823688464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3770538424ec814ebcbc8a23df35ef8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  moveSpeed: 10
+  fastMultiplier: 2
+  slowMultiplier: 0.5
+  mouseSensitivity: 0.25
+  verticalLookLimit: 85
 --- !u!1 &2013410473
 GameObject:
   m_ObjectHideFlags: 1
@@ -1920,11 +1938,6 @@ Transform:
   - {fileID: 6539782219735667424}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &543450652820070953 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2145423174421791098, guid: 0af9b1e60273ec04291add028b7f4439, type: 3}
-  m_PrefabInstance: {fileID: 8083935924604539659}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &543450653430788405
 Transform:
   m_ObjectHideFlags: 0
@@ -4893,10 +4906,7 @@ PrefabInstance:
       objectReference: {fileID: 1438354997}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 2145423174421791098, guid: 0af9b1e60273ec04291add028b7f4439, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1823688467}
+    m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0af9b1e60273ec04291add028b7f4439, type: 3}
 --- !u!1 &8282005254678851881
@@ -5108,3 +5118,4 @@ SceneRoots:
   - {fileID: 543450652112191383}
   - {fileID: 543450653430788405}
   - {fileID: 390991424}
+  - {fileID: 1823688467}
